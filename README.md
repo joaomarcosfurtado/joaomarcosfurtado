@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is joão Marcos
 #### I'm a enthusiastic developer 
-I work developing ERP systems in Desktop language, more precisely: Systems with a focus on Commerce, Schools, Medical Offices, carriers and a few industries, whether providing maintenance on existing code or adding / improving new routines, Planning / Survey of Requirements, Maintenance and Implementation in SQL Database, Maintenance in issuing system of: NF-e, NFC-e, CT-e / MDF-e via ACBR. I learning a lot about web development, I have been studying JavaScript, HTML, CSS and React...
+I work developing ERP systems in Desktop language, more precisely: Systems with a focus on Commerce, Schools, Medical Offices, carriers and a few industries, whether providing maintenance on existing code or adding / improving new routines, Planning / Survey of Requirements, Maintenance and Implementation in SQL Database, Maintenance in issuing system of: NF-e, NFC-e, CT-e / MDF-e using ACBR. I'm enjoying learning about web development, I have been studying JavaScript, HTML, CSS and React...
 
 Skills: DELPHI/ SQL / REACT / JS / HTML / CSS
 
